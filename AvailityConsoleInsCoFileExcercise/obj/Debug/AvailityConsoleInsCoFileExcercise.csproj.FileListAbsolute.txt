@@ -1,0 +1,16 @@
+C:\Users\patri\source\repos\AvailityConsoleInsCoFileExcercise\bin\Debug\Files\MemberUpdates06012019.csv
+C:\Users\patri\source\repos\AvailityConsoleInsCoFileExcercise\bin\Debug\AvailityConsoleInsCoFileExcercise.exe.config
+C:\Users\patri\source\repos\AvailityConsoleInsCoFileExcercise\bin\Debug\AvailityConsoleInsCoFileExcercise.exe
+C:\Users\patri\source\repos\AvailityConsoleInsCoFileExcercise\bin\Debug\AvailityConsoleInsCoFileExcercise.pdb
+C:\Users\patri\source\repos\AvailityConsoleInsCoFileExcercise\obj\Debug\AvailityConsoleInsCoFileExcercise.csprojAssemblyReference.cache
+C:\Users\patri\source\repos\AvailityConsoleInsCoFileExcercise\obj\Debug\AvailityConsoleInsCoFileExcercise.csproj.CoreCompileInputs.cache
+C:\Users\patri\source\repos\AvailityConsoleInsCoFileExcercise\obj\Debug\AvailityConsoleInsCoFileExcercise.exe
+C:\Users\patri\source\repos\AvailityConsoleInsCoFileExcercise\obj\Debug\AvailityConsoleInsCoFileExcercise.pdb
+C:\Users\pdepi\Source\Repos\ConsoleInsCo\AvailityConsoleInsCoFileExcercise\bin\Debug\Files\MemberUpdates06012019.csv
+C:\Users\pdepi\Source\Repos\ConsoleInsCo\AvailityConsoleInsCoFileExcercise\bin\Debug\AvailityConsoleInsCoFileExcercise.exe.config
+C:\Users\pdepi\Source\Repos\ConsoleInsCo\AvailityConsoleInsCoFileExcercise\bin\Debug\AvailityConsoleInsCoFileExcercise.exe
+C:\Users\pdepi\Source\Repos\ConsoleInsCo\AvailityConsoleInsCoFileExcercise\bin\Debug\AvailityConsoleInsCoFileExcercise.pdb
+C:\Users\pdepi\Source\Repos\ConsoleInsCo\AvailityConsoleInsCoFileExcercise\obj\Debug\AvailityConsoleInsCoFileExcercise.csprojAssemblyReference.cache
+C:\Users\pdepi\Source\Repos\ConsoleInsCo\AvailityConsoleInsCoFileExcercise\obj\Debug\AvailityConsoleInsCoFileExcercise.csproj.CoreCompileInputs.cache
+C:\Users\pdepi\Source\Repos\ConsoleInsCo\AvailityConsoleInsCoFileExcercise\obj\Debug\AvailityConsoleInsCoFileExcercise.exe
+C:\Users\pdepi\Source\Repos\ConsoleInsCo\AvailityConsoleInsCoFileExcercise\obj\Debug\AvailityConsoleInsCoFileExcercise.pdb
